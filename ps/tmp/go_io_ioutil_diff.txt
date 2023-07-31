@@ -1,0 +1,31 @@
+The main differences between Go's io and ioutil packages are:
+
+- io provides basic I/O primitives like Reader, Writer, Closer interfaces and implementation of file I/O. ioutil provides higher-level convenience functions.
+
+- io operates on streams while ioutil operates on files and byte slices.
+
+- io focuses on interfaces and composability while ioutil provides simple helper functions.
+
+Some key differences:
+
+- io.Reader/Writer are interfaces, ioutil provides implementations like ioutil.ReadFile()/ioutil.WriteFile()
+
+- io.Copy() copies between streams, ioutil.ReadAll() reads a whole file/connection into memory.
+
+- io handles streams, ioutil handles files and byte slices.
+
+- io builds up functionality through interfaces and composition, ioutil provides helper utils.
+
+- io is lower-level, ioutil is higher-level convenience.
+
+So in summary:
+
+- io provides fundamental readable/writable streams and basic file I/O.
+
+- ioutil adds higher-level file and byte slice utilities.
+
+- io is about composable interfaces, ioutil about convenient helpers.
+
+- io handles streaming data, ioutil handles files and memory.
+
+Most Go programs will use both - io for core I/O with composability and ioutil for convenient helpers for files/byte slices.

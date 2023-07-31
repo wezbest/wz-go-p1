@@ -1,4 +1,4 @@
-# wz-go-p1
-Wzgop1
-. d
-sdfsfd
+
+<p align="center">
+<img src="./j.gif" width=800>
+</p>

@@ -1,0 +1,95 @@
+0 Ace of ♥️ Hearts
+1 Ace of ♠️ Spades
+2 Three of ♣️ Clubs
+3 Four of ♣️ Clubs
+4 Three of ♥️ Hearts
+5 Two of ♦️ Diamonds
+6 Four of ♦️ Diamonds
+7 Three of ♠️ Spades
+8 Four of ♥️ Hearts
+9 Two of ♣️ Clubs
+10 Two of ♠️ Spades
+11 Four of ♠️ Spades
+12 Ace of ♦️ Diamonds
+13 Three of ♦️ Diamonds
+14 Ace of ♣️ Clubs
+15 Two of ♥️ Hearts
+
+
+Current Unix time:  1689605283019029870
+0 Three of ♣️ Clubs
+1 Two of ♦️ Diamonds
+2 Ace of ♠️ Spades
+3 Two of ♥️ Hearts
+4 Three of ♥️ Hearts
+5 Four of ♦️ Diamonds
+6 Three of ♦️ Diamonds
+7 Ace of ♦️ Diamonds
+8 Four of ♠️ Spades
+9 Four of ♣️ Clubs
+10 Three of ♠️ Spades
+11 Ace of ♣️ Clubs
+12 Ace of ♥️ Hearts
+13 Two of ♠️ Spades
+14 Two of ♣️ Clubs
+15 Four of ♥️ Hearts
+
+
+Current Unix time:  1689605283166962108
+0 Two of ♠️ Spades
+1 Four of ♣️ Clubs
+2 Four of ♠️ Spades
+3 Three of ♠️ Spades
+4 Ace of ♦️ Diamonds
+5 Four of ♥️ Hearts
+6 Two of ♣️ Clubs
+7 Ace of ♠️ Spades
+8 Two of ♥️ Hearts
+9 Ace of ♣️ Clubs
+10 Ace of ♥️ Hearts
+11 Three of ♦️ Diamonds
+12 Three of ♥️ Hearts
+13 Four of ♦️ Diamonds
+14 Two of ♦️ Diamonds
+15 Three of ♣️ Clubs
+
+
+Current Unix time:  1689605283300115716
+0 Two of ♣️ Clubs
+1 Three of ♠️ Spades
+2 Four of ♥️ Hearts
+3 Ace of ♣️ Clubs
+4 Ace of ♥️ Hearts
+5 Three of ♣️ Clubs
+6 Four of ♦️ Diamonds
+7 Two of ♦️ Diamonds
+8 Four of ♣️ Clubs
+9 Three of ♥️ Hearts
+10 Three of ♦️ Diamonds
+11 Two of ♥️ Hearts
+12 Four of ♠️ Spades
+13 Ace of ♦️ Diamonds
+14 Ace of ♠️ Spades
+15 Two of ♠️ Spades
+
+
+Current Unix time:  1689605283450081044
+0 Three of ♣️ Clubs
+1 Three of ♦️ Diamonds
+2 Two of ♠️ Spades
+3 Two of ♣️ Clubs
+4 Two of ♦️ Diamonds
+5 Three of ♠️ Spades
+6 Four of ♥️ Hearts
+7 Two of ♥️ Hearts
+8 Four of ♠️ Spades
+9 Ace of ♠️ Spades
+10 Three of ♥️ Hearts
+11 Ace of ♥️ Hearts
+12 Four of ♦️ Diamonds
+13 Ace of ♣️ Clubs
+14 Four of ♣️ Clubs
+15 Ace of ♦️ Diamonds
+
+
+Current Unix time:  1689605283582888923

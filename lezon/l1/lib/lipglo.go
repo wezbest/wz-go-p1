@@ -20,6 +20,7 @@ The following fnction is super sexy
 sna
 */
 
+// This is called a block creation 
 var (
 	liq = lg.NewStyle().
 		Foreground(lg.Color("#16FF00")).

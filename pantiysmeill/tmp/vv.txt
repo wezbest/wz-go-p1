@@ -1,0 +1,3 @@
+Usage
+echo -e " aria2c \" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM78McgjNIAYWaR0Qu0s13AdO_BVpQ7QVaCA&usqp=CAU\" "
+echo -e " yt-dlp \" https://vdownload-41.sb-cd.com/1/3/13353270-720p.mp4?secure=9SgC4Oqkre6aAHME_UG0tQ,1690306932&m=41&d=1&_tid=13353270 \" "

@@ -70,7 +70,7 @@ func Headr(s string) {
 }
 
 // This is for the sub header
-func Texc(s string, t string) {
+func Texc(s, t string) {
 	f.Println(texco.Render(s, t))
 }
 

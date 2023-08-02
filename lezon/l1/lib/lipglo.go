@@ -20,16 +20,17 @@ The following fnction is super sexy
 sna
 */
 
-var liq = lg.NewStyle().
-	Foreground(lg.Color("#16FF00")).
-	Background(lg.Color("#2D033B")).
-	Width(70).Align(lg.Center).Bold(true).
-	Blink(true).Border(lg.DoubleBorder(), true, true, true, true).
-	PaddingTop(1).
-	PaddingBottom(1).
-	BorderForeground(lg.Color("#FC2947"))
+var (
+	liq = lg.NewStyle().
+		Foreground(lg.Color("#16FF00")).
+		Background(lg.Color("#2D033B")).
+		Width(70).Align(lg.Center).Bold(true).
+		Blink(true).Border(lg.DoubleBorder(), true, true, true, true).
+		PaddingTop(1).
+		PaddingBottom(1).
+		BorderForeground(lg.Color("#FC2947"))
 
-var banner = `
+	banner = `
 
 ██╗      ███████╗ ███████╗ ███████╗  ██████╗  ███╗   ██╗      ██╗
 ██║      ██╔════╝ ██╔════╝ ██╔════╝ ██╔═══██╗ ████╗  ██║     ███║
@@ -39,6 +40,21 @@ var banner = `
 ╚══════╝ ╚══════╝ ╚══════╝ ╚══════╝  ╚═════╝  ╚═╝  ╚═══╝      ╚═╝
 `
 
+	lqh = lg.NewStyle().
+		Background(lg.Color("#0C1E7F")).
+		Foreground(lg.Color("#FF008E")).
+		Bold(true).
+		Underline(true)
+
+	texco = lg.NewStyle().
+		Background(lg.Color("#3A1078")).
+		Foreground(lg.Color("#00DFA2"))
+
+	pa = lg.NewStyle().
+		Background(lg.Color("#2E4F4F")).
+		Foreground(lg.Color("#ACFADF"))
+)
+
 func ColoBanner(s string) {
 	t := time.Now().UTC().Format("Mon Jan 02 15:04:05 UTC")
 
@@ -46,30 +62,16 @@ func ColoBanner(s string) {
 
 }
 
-var lqh = lg.NewStyle().
-	Background(lg.Color("#0C1E7F")).
-	Foreground(lg.Color("#FF008E")).
-	Bold(true).
-	Underline(true)
-
 // Thus funtion is for the nice heading colors
 func Headr(s string) {
 	f.Println("\n")
 	f.Println(lqh.Render(s), "\n")
 }
 
-var texco = lg.NewStyle().
-	Background(lg.Color("#3A1078")).
-	Foreground(lg.Color("#00DFA2"))
-
 // This is for the sub header
 func Texc(s string, t string) {
 	f.Println(texco.Render(s, t))
 }
-
-var pa = lg.NewStyle().
-	Background(lg.Color("#2E4F4F")).
-	Foreground(lg.Color("#ACFADF"))
 
 func Para(s string) {
 	f.Println(pa.Render(s), "\n")

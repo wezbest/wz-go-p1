@@ -9,6 +9,6 @@ import (
 )
 
 func W1() {
-	f.Println("This was made by you for your work")
+	f.Println(`This was made by you | "wha what " for your work`)
 
 }

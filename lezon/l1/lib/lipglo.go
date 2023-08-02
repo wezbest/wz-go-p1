@@ -52,6 +52,7 @@ var lqh = lg.NewStyle().
 	Bold(true).
 	Underline(true)
 
+// Thus funtion is for the nice heading colors
 func Headr(s string) {
 	f.Println("\n")
 	f.Println(lqh.Render(s), "\n")
@@ -61,6 +62,7 @@ var texco = lg.NewStyle().
 	Background(lg.Color("#3A1078")).
 	Foreground(lg.Color("#00DFA2"))
 
+// This is for the sub header
 func Texc(s string, t string) {
 	f.Println(texco.Render(s, t))
 }
